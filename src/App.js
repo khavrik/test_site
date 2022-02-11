@@ -15,6 +15,10 @@ function App() {
       <Delivery></Delivery>
       <Gifts></Gifts>
       <Footer></Footer>
+
+
+
+    
       <Privacy></Privacy>
     </>
   );
